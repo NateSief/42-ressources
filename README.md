@@ -11,7 +11,7 @@ All the ressources thath I used for my cursus at 42 Paris + some notes from myse
   . You have to understand the functionment of each function you're coding, and know how to reproduce them without help.
 
   #### Ressources :
-    . Makefile Tuto : https://github.com/clemedon/Makefile_tutor </br>
+    . Makefile Tuto : [https://github.com/clemedon/Makefile_tutor] </br>
       Very complete tutorial that explain how to make a Makefile for your projects. Very interesting to read and it'll help you to make your Makefile in a good way.
 
 ### . Get Next Line (GNL)
