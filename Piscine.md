@@ -20,17 +20,23 @@ Pour ce faire, vous devrez poser des slots de correction, puis si quelqu'un s'in
 
 ```
 POINT DE VUE DU CORRIGE :
-	- Il ne faut laisser que les fichiers .c dans le repertoire final (pas de a.out, rien qui n'est pas indique dans le sujet).
-	- Verifiez bien avant de 'set as finished' que vous avez bien envoye la version souhaitee, a la norme, ... (faites juste un git clone dans votre sgoinfre et verifiez ou faites verifier par quelqu'un a cote).
-	- Faites attention a bien avoir les points avant de 'set as finished' car les 2 corrections doivent etre faites dans une duree de 24h apres avoir 'set as finished'.
-	- Faites les retours de commentaires juste apres la correction, sur votre PC pour ne pas avoir de soucis au niveau du projet.
+	- Il ne faut laisser que les fichiers .c dans le repertoire final (pas de a.out, rien qui n'est pas indique 
+		dans le sujet).
+	- Verifiez bien avant de 'set as finished' que vous avez bien envoye la version souhaitee, a la norme, ... 
+		(faites juste un git clone dans votre sgoinfre et verifiez ou faites verifier par quelqu'un a cote).
+	- Faites attention a bien avoir les points avant de 'set as finished' car les 2 corrections doivent etre 
+		faites dans une duree de 24h apres avoir 'set as finished'.
+	- Faites les retours de commentaires juste apres la correction, sur votre PC pour ne pas avoir de soucis 
+		au niveau du projet.
 
 POINT DE VUE DU CORRECTEUR :
 	- Suivez bien la fiche de correction
-	- Interessez vous au code que vous avez sous les yeux et restez ouverts a de nouvelles methodes ; vous apprendrez plus comme ca qu'en restant sur une seule methode de realisation.
+	- Interessez vous au code que vous avez sous les yeux et restez ouverts a de nouvelles methodes ; vous 
+		apprendrez plus comme ca qu'en restant sur une seule methode de realisation.
 	- Expliquez a la personne que vous corrigez ses erreurs si vous le pouvez et aidez le a s'ameliorer.
 	- En cas de desaccord ou si necessaire, n'hesitez pas a demander l'aide d'une personne tierce.
-	- Realisez la correction et les retours de commentaires sur les PC de 42, rapidement apres la correction (le mieux est de le faire directement pendant).
+	- Realisez la correction et les retours de commentaires sur les PC de 42, rapidement apres la correction 
+		(le mieux est de le faire directement pendant).
 ```
 </p>
 
@@ -50,13 +56,16 @@ Fonctionnement des examens :
 	Il faut vous enregistrer a l'evenement ET au projet examen. Ne s'inscrire qu'a l'un des 2 ne suffit pas.
 
 -- PENDANT L'EXAMEN --
-	En arrivant en examen, vous serez disposes dans les clusters. Pensez a BIEN VIDER VOS POCHES (meme un morceau de papier provenant d'une sucrette a cafe ne passe pas), eteindre vos telephones, ne pas avoir de montre connectee, 3 feuilles de brouillon vierges et votre cartes(les regles sont tres strictes).
+	En arrivant en examen, vous serez disposes dans les clusters. Pensez a BIEN VIDER VOS POCHES (meme un 
+		morceau de papier provenant d'une sucrette a cafe ne passe pas), eteindre vos telephones, ne pas avoir 
+			de montre connectee, 3 feuilles de brouillon vierges et votre cartes(les regles sont tres strictes).
 	Une fois l'heure de debut, pour se connecter, les logins sont :
 	- exam
 	- exam
 Une fois connectes, il faut aller dans le terminal, et faire la commande
 	examshell
-pour vous enregistrer a l'examen. Vous devrez alors enregistrer vos logins personnels, et une batterie d'exercices sera alors presentee.
+pour vous enregistrer a l'examen. Vous devrez alors enregistrer vos logins personnels, et une batterie 
+	d'exercices sera alors presentee.
 N'oubliez pas de faire :
 	git add *
 	git commit -m "Votre commit"
