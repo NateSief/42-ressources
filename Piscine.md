@@ -1,7 +1,8 @@
 <h1> La piscine a 42</h1>
 
 ```
-Les informations qui suivent datent de comment j'ai passe ma piscine en 2023, il n'est pas impossible que certaines informations ne soient plus a jour.
+Les informations qui suivent datent de comment j'ai passe ma piscine en 2023, il n'est pas impossible que certaines 
+informations ne soient plus a jour.
 ```
 
 <h2> Fonctionnement global :</h2>
@@ -57,8 +58,9 @@ Fonctionnement des examens :
 
 -- PENDANT L'EXAMEN --
 	En arrivant en examen, vous serez disposes dans les clusters. Pensez a BIEN VIDER VOS POCHES (meme un 
-		morceau de papier provenant d'une sucrette a cafe ne passe pas), eteindre vos telephones, ne pas avoir 
-			de montre connectee, 3 feuilles de brouillon vierges et votre cartes(les regles sont tres strictes).
+		morceau de papier provenant d'une sucrette a cafe ne passe pas), eteindre vos telephones, ne pas 
+		avoir de montre connectee, 3 feuilles de brouillon vierges et votre cartes(les regles sont 
+		tres strictes).
 	Une fois l'heure de debut, pour se connecter, les logins sont :
 	- exam
 	- exam
