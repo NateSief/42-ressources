@@ -5,8 +5,8 @@ All the ressources thath I used for my cursus at 42 Paris + some notes from myse
 ### . Libft
   A project that asks you to create a library that you'll use during your all cursus and that you'll complete with a lot of functions during your cursus.
 
-  . /!\ Be rigourus with the Makefile, and the bonus rule. </br>
-  . /!\ Try to optimise the functions the maximum you can, it'll help you a lot when you'll have to use them after.
+  > :warning: Be rigourus with the Makefile, and the bonus rule. </br>
+  > :warning: Try to optimise the functions the maximum you can, it'll help you a lot when you'll have to use them after.
 
   . You have to understand the functionment of each function you're coding, and know how to reproduce them without help.
 
